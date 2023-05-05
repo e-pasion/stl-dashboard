@@ -1,0 +1,12 @@
+input[type="color"] {
+    -webkit-appearance: none;
+    -moz-appearance: none;
+    appearance: none;
+    border: none;
+    outline: none;
+    background-color: transparent;
+  }
+
+  #selectColor::-webkit-color-swatch{
+    border: none;
+  }
